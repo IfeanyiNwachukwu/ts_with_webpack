@@ -1,0 +1,27 @@
+{
+  "name": "ts_with_webpack",
+  "version": "1.0.0",
+  "description": "Webpack is a bundling/build orchestration tool\r -code bundles, less imports required\r -optimized(minified) code means less code to download\r -more build steps can be added easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IfeanyiNwachukwu/ts_with_webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IfeanyiNwachukwu/ts_with_webpack/issues"
+  },
+  "homepage": "https://github.com/IfeanyiNwachukwu/ts_with_webpack#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.5",
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
